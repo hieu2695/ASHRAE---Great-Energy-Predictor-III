@@ -2,7 +2,7 @@
 Final Project: ASHRAE - Great Energy Predictor III
 
 ------------
-Notebook [https://hieu2695.github.io/CC2020-Final-Project/CC2020_Final_Project.html]
+[Notebook](https://hieu2695.github.io/CC2020-Final-Project/CC2020_Final_Project.html)
 
 ## Introduction
 
