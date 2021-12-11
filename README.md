@@ -1,9 +1,11 @@
-# CLOUD COMPUTING WITH AMAZON WEB SERVICES
+## CLOUD COMPUTING WITH AMAZON WEB SERVICES
 
-# ASHRAE - Great Energy Predictor III
+## ASHRAE - Great Energy Predictor III
 
 ------------
 [Notebook](https://hieu2695.github.io/CC2020-Final-Project/CC2020_Final_Project.html)
+
+------------
 
 ## Introduction
 
